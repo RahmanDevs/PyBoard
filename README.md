@@ -1,4 +1,4 @@
-# PyBoard V2.1.1 (Beta)
+# PyBoard V2.1.4 (Beta)
 
 A **Bangla keyboard layout** based on the **ANSI V1 font**.
 
@@ -6,7 +6,8 @@ A **Bangla keyboard layout** based on the **ANSI V1 font**.
 
 ## 🪡 Features
 
-- 🇧🇩 Bangla typing support using ANSI V1 font  
+- 🇧🇩 Bangla typing support using ANSI V1 font
+- Support Unicode font 
 - ⌨️ Easy language switching  
 - 🧪 Beta version (V2.1.1)
 
@@ -19,7 +20,13 @@ A **Bangla keyboard layout** based on the **ANSI V1 font**.
   - **English**
 
 ---
+## 🔁 Output Mode Toggle
 
+- Press **Shift+F1** to switch between:
+  - **ANSI V1**
+  - **Unicode**
+
+---
 ## ℹ️ Notes
 
 - This is a **beta release**, so minor issues may exist.
