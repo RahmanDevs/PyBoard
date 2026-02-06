@@ -1,4 +1,4 @@
-# PyBoard V2.1.4 (Beta)
+# PyBoard V2.1.5 (Beta)
 
 A **Bangla keyboard layout** based on the **ANSI V1 font**.
 
